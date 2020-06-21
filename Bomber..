@@ -5,8 +5,8 @@ echo -e "\e[1;34m Presents \e[0m"
 echo -e "\e[1;32m Bomber.. \e[0m"
 echo "Press Enter To Continue"
 read a1
-if [[ -s update.Harshil Hacker ]];then
-echo "All Requirements Found...."
+if [[ -s update.speedx ]];then
+echo " -s  Requirements Found...."
 else
 echo 'Installing Requirements....'
 echo .
