@@ -2,10 +2,10 @@
 clear
 echo -e "\e[4;31m Harshil Productions !!! \e[0m"
 echo -e "\e[1;34m Presents \e[0m"
-echo -e "\e[1;32m TBomb \e[0m"
+echo -e "\e[1;32m Bomber.. \e[0m"
 echo "Press Enter To Continue"
 read a1
-if [[ -s update.speedx ]];then
+if [[ -s update.Harshil Hacker ]];then
 echo "All Requirements Found...."
 else
 echo 'Installing Requirements....'
@@ -34,8 +34,8 @@ echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/Harshil Haker \e[0m"
 echo " "
 echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
 echo " "
-echo "Press 1 To  Start SMS Bomber "
-echo "Press 2 To  Start Call Bomber "
+echo "Press 1 To  SMS bombing "
+echo "Press 2 To  call bombing "
 echo "Press 3 To  Update (Works On Linux And Linux Emulators) "
 echo "Press 4 To  View Features "
 echo "Press 5 To  Exit "
